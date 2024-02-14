@@ -22,7 +22,7 @@ def parse_arguments():
     order = int(order)
     size = int(size)
 
-    print(f"Розмір: {size}, рівень рекурсі: {order}")
+    print(f"Розмір: {size}, рівень рекурсії: {order}")
     print()
 
     return (order, size)
